@@ -1,2 +1,2 @@
 # Diabetes_Prediction
- Diabetes_Prediction
+Diabetes Prediction using WebApp
